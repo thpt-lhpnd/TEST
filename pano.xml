@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20986" appversion="7.1.8" start="node5" hassounds="1">
+  <panorama id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2844" height="2844" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" overlap="1">
+      <level preload="0" width="2844" predecode="0" height="2844"/>
+      <level preload="0" width="1422" predecode="0" height="1422"/>
+      <level preload="0" width="711" predecode="0" height="711"/>
+      <level preload="1" width="355" predecode="1" height="355"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="-35.7494" projection="4" fov="74.4504" pan="-0.502268"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" tilt="90" fov="140" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node5" author="" longitude="106.184800" description="" customnodeid="" heading="0" tags="nhPanorama" title="Toàn Cảnh" latitude="20.435874" copyright="" comment="" source="" datetime="01/05/2025 4:38 PM" info="" altitude="89.00"/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label borderalpha="1" border="1" width="180" textalpha="1" height="20" textcolor="0x000000" borderradius="1" background="1" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot distance="49.9747" tilt="-49.85" description="" skinid="ht_node" title="Cổng Trường" id="Point01" target="" pan="-0.51" url="{node4}"/>
+      <hotspot distance="98.0675" tilt="-35.37" description="" skinid="ht_node" title="Sân Trường" id="Point02" target="" pan="-0.6" url="{node12}"/>
+      <hotspot distance="96.3953" tilt="-14.5" description="" distance3D="5852.19" customimagewidth="1024" customimage="media/flygif.gif" skinid="ht_node" title="Góc trên" id="Point03" customimageheight="1024" use3D="1" target="" fov="10" pan="-2.6" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomspeed="2" zoomfov="40" type="mesh" blendcolor="0x000000" delay="none" blendtime="1" softedge="0" zoomout="0" enabled="1" zoomafterinfov="140" zoomin="7" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" contextvr="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" lockedkeyboard="0" simulatemass="1" zoomcentercursor="1" lockedwheel="0" invertwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" height="2048" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" overlap="1">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="-89.79" projection="4" fov="74.45" pan="-91.49"/>
+      <flyin tilt="-120" projection="9" fov="300" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" tilt="90" fov="140" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node6" author="" longitude="106.185124" description="" customnodeid="" heading="0" tags="nhPanorama" title="Góc Trên" latitude="20.435062" copyright="" comment="" source="" datetime="01/01/1970 12:00 AM" info="" altitude="79.00"/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label borderalpha="1" border="1" width="180" textalpha="1" height="20" textcolor="0x000000" borderradius="1" background="1" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot distance="46.4229" tilt="-57.05" description="" skinid="ht_node" title="Cổng Trường" id="Point01" target="" pan="-266.75" url="{node4}"/>
+      <hotspot distance="96.3953" tilt="7.52" description="" distance3D="5852.19" customimagewidth="1024" customimage="media/flygif1.gif" skinid="ht_node" title="Toàn Cảnh" id="Point02" customimageheight="1024" use3D="1" target="" fov="10" pan="-269.72" url="{node5}"/>
+      <hotspot tilt="-55.41" description="" distance3D="12825.2" customimagewidth="1024" customimage="media/2.gif" skinid="ht_node" title="Phòng Truyền Thống" id="Point03" customimageheight="1024" use3D="1" target="" fov="4.5722300000000002" pan="-3.7" url=""/>
+      <hotspot distance="1.69696" tilt="-85.06" description="" skinid="ht_node" title="Sân trường" id="Point04" target="" pan="-186.03" url="{node12}"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomspeed="2" zoomfov="40" type="mesh" blendcolor="0x000000" delay="none" blendtime="1" softedge="0" zoomout="0" enabled="1" zoomafterinfov="140" zoomin="7" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" contextvr="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" lockedkeyboard="0" simulatemass="1" zoomcentercursor="1" lockedwheel="0" invertwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" height="2048" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" overlap="1">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="-3.81448" projection="4" fov="103.968" pan="-1.37755"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" tilt="90" fov="140" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node4" author="" longitude="106.184965" description="" customnodeid="" heading="0" tags="nhPanorama" title="Cổng Trường" latitude="20.435452" copyright="" comment="" source="" datetime="01/05/2025 4:43 PM" info="" altitude="20.00"/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label borderalpha="1" border="1" width="180" textalpha="1" height="20" textcolor="0x000000" borderradius="1" background="1" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot distance="48.0935" tilt="-2.37" description="" skinid="ht_node" title="Sân Trường" id="Point01" target="" pan="-0.21" url="{node12}"/>
+      <hotspot tilt="67.77" description="" distance3D="5852.19" customimagewidth="1024" customimage="media/flygif.gif" skinid="ht_node" title="Toàn Cảnh" id="Point02" customimageheight="1024" use3D="1" target="" fov="10" pan="-159.3" url=""/>
+      <hotspot distance="46.4229" tilt="46.03" description="" distance3D="5852.19" customimagewidth="1024" customimage="media/flygif1.gif" skinid="ht_node" title="Góc Trên" id="Point03" customimageheight="1024" use3D="1" target="" fov="10" pan="-358.42" url="{node6}"/>
+    </hotspots>
+    <media>
+      <image tilt="-8.596" handcursor="0" width="540" clickmode="1" rotz="-0.941" height="662" popoutscaling="50" rotx="-7.794" popbackmode="0" id="Element01" roty="-9.311" fov="26.722" stretch="0.527" pan="-3.053" hidepinned="0">
+        <source url="media/465264721_8609780855757645_6264288129631357947_n.png"/>
+      </image>
+      <video pansize="10.000" handcursor="0" field="90.000" clickmode="2" ambientlevel="0.000" startmutedmobile="0" roty="23.260" fov="15.920" stretch="1.304" tiltsize="10.000" hidepinned="0" tilt="-10.490" mode="1" level="1.000" width="100" popoutscaling="100" rotz="3.690" height="100" rotx="0.140" popbackmode="0" id="Element02" loop="1" pan="20.670" nodechangekeep="0">
+        <source url="media/clip Copy 01.webm"/>
+      </video>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomfov="40" type="mesh" blendcolor="0x000000" delay="none" blendtime="1" softedge="0" zoomout="0" enabled="1" zoomafterinfov="140" zoomin="7" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" contextvr="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" lockedkeyboard="0" simulatemass="1" zoomcentercursor="1" lockedwheel="0" invertwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" height="2048" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" overlap="1">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="-45.599" projection="4" fov="103.968" pan="-97.4784"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" tilt="90" fov="140" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node12" author="" longitude="106.185127" description="" customnodeid="" heading="0" tags="nhPanorama" title="Sân trường" latitude="20.435047" copyright="" comment="" source="" datetime="01/01/1970 12:00 AM" info="" altitude="43.00"/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label borderalpha="1" border="1" width="180" textalpha="1" height="20" textcolor="0x000000" borderradius="1" background="1" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-22.09" description="" distance3D="10999.7" customimagewidth="1024" customimage="media/2.gif" skinid="ht_node" title="Phòng Truyền Thống" id="Point01" customimageheight="1024" use3D="1" target="" fov="5.3300000000000001" pan="-5.81" url="{node13}"/>
+      <hotspot tilt="-17.73" description="" distance3D="417.197" customimagewidth="73" customimage="media/hq720-1.jpg" skinid="Tralalero" title="NÚT BẤM VIDEO ẨN?!?!?!?" id="Point02" customimageheight="42" use3D="0" target="_blank" fov="10" pan="-309.27" url="https://www.youtube.com/shorts/18_RA0ZkiUc"/>
+      <hotspot distance="1.69696" tilt="85.5" description="" distance3D="5852.19" customimagewidth="1024" customimage="media/flygif1.gif" skinid="ht_node" title="Góc Trên" id="Point03" customimageheight="1024" use3D="1" target="" fov="10" pan="-218.45" url="{node6}"/>
+      <hotspot distance="98.0675" tilt="30.47" description="" distance3D="5852.19" customimagewidth="1024" customimage="media/flygif.gif" skinid="ht_node" title="Toàn Cảnh" id="Point04" customimageheight="1024" use3D="1" target="" fov="10" pan="-272.72" url="{node5}"/>
+      <hotspot distance="48.0935" tilt="-31.49" description="" skinid="ht_node" title="Cổng Trường" id="Point05" target="" pan="-265.2" url="{node4}"/>
+      <polyhotspot title="Phòng Truyền Thống" id="Poly01" description="" target="" url="{node13}">
+        <polystring>-5.24/-5.19|-2.24/-8.39|-9.13/-8.29|-9.19/-8.29|-9.05/-18.89|-2.03/-19.03|-9.31/-8.11</polystring>
+      </polyhotspot>
+      <polyhotspot title="Phòng Truyền Thống" id="Poly02" description="" target="" url="{node13}">
+        <polystring>-2.24/-8.45|-2.1/-18.92|-9.31/-8.29|-5.88/-8.38</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomspeed="2" zoomfov="40" type="mesh" blendcolor="0x000000" delay="none" blendtime="1" softedge="0" zoomout="0" enabled="1" zoomafterinfov="140" zoomin="7" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" contextvr="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" lockedkeyboard="0" simulatemass="1" zoomcentercursor="1" lockedwheel="0" invertwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="4000" height="4000" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" overlap="1">
+      <level preload="0" width="4000" predecode="0" height="4000"/>
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="-0.0382297" projection="4" fov="103.968" pan="-1.22932"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" tilt="90" fov="140" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node13" author="" longitude="" description="" customnodeid="" heading="0" tags="nhPanorama" title="Phòng Truyền Thống" latitude="" copyright="" comment="" source="" datetime="" info="" altitude="-3048.00"/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label borderalpha="1" border="1" width="180" textalpha="1" height="20" textcolor="0x000000" borderradius="1" background="1" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="14.34" description="" distance3D="11083.6" customimagewidth="1024" customimage="media/2.gif" skinid="ht_node" title="Niên Khóa" id="Point01" customimageheight="1024" use3D="1" target="" fov="5.28972" pan="-146.25" url="{node9}"/>
+      <hotspot tilt="-1.18" title="Sân Trường" id="Point02" description="" target="" skinid="ht_node" pan="-325.94" url="{node12}"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomspeed="2" zoomfov="40" type="mesh" blendcolor="0x000000" delay="none" blendtime="1" softedge="0" zoomout="0" enabled="1" zoomafterinfov="140" zoomin="7" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" contextvr="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" lockedkeyboard="0" simulatemass="1" zoomcentercursor="1" lockedwheel="0" invertwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="1000" height="1000" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" overlap="1">
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="-1.45904" projection="4" fov="103.968" pan="2.95917"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" tilt="90" fov="140" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node9" author="" longitude="" description="" customnodeid="" heading="0" tags="nhPanorama" title="Niên Khóa" latitude="" copyright="" comment="" source="" datetime="" info="" altitude="-3048.00"/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label borderalpha="1" border="1" width="180" textalpha="1" height="20" textcolor="0x000000" borderradius="1" background="1" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomspeed="2" zoomfov="40" type="mesh" blendcolor="0x000000" delay="none" blendtime="1" softedge="0" zoomout="0" enabled="1" zoomafterinfov="140" zoomin="7" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" contextvr="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" lockedkeyboard="0" simulatemass="1" zoomcentercursor="1" lockedwheel="0" invertwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2000" height="2000" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" overlap="1">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="-0.91488" projection="4" fov="103.968" pan="-2.12495"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" tilt="90" fov="140" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node8" author="" longitude="" description="" customnodeid="" heading="0" tags="nhPanorama" title="Phòng Trống" latitude="" copyright="" comment="" source="" datetime="" info="" altitude="-3048.00"/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label borderalpha="1" border="1" width="180" textalpha="1" height="20" textcolor="0x000000" borderradius="1" background="1" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomspeed="2" zoomfov="40" type="mesh" blendcolor="0x000000" delay="none" blendtime="1" softedge="0" zoomout="0" enabled="1" zoomafterinfov="140" zoomin="7" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" contextvr="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" lockedkeyboard="0" simulatemass="1" zoomcentercursor="1" lockedwheel="0" invertwheel="0" rubberband="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" author="" description="" copyright="" comment="" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
