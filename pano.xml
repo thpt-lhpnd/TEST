@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20986" appversion="7.1.8" hassounds="1" start="node14">
+  <panorama id="node14" hideabout="1">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2844" overlap="1" levelingpitch="0" width="2844" levelbiashidpi="1.000" leveltilesize="510">
+      <level width="2844" predecode="0" height="2844" preload="0"/>
+      <level width="1422" predecode="0" height="1422" preload="0"/>
+      <level width="711" predecode="0" height="711" preload="0"/>
+      <level width="355" predecode="1" height="355" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-194.693">
+      <start fov="94.08" pan="-0.13" tilt="-35.19" projection="4"/>
+      <flyin fov="300" pan="0" tilt="-120" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata info="" tags="Tongquan" nodeid="node14" title="TOÀN CẢNH" datetime="5/1/2025 4:38 PM" source="" latitude="20.435874" heading="-194.693" author="" comment="" customnodeid="" altitude="89.00" copyright="" description="" longitude="106.184800"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textcolor="0x000000" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" height="20" border="1" borderradius="1" wordwrap="1" background="1" backgroundalpha="0.784314" width="180" enabled="1" borderalpha="1"/>
+      <polystyle handcursor="1" mode="2" bordercolor="0xffffff" backgroundcolor="0x0000de" backgroundalpha="0.141176" borderalpha="0"/>
+      <hotspot pan="-332.79" title="DÃY NHÀ A" id="Point01" tilt="-26.92" skinid="1" description="" target="" url=""/>
+      <hotspot pan="-359.88" title="SÂN TRƯỜNG" target="" url="{node6}" id="Point05" tilt="-36.66" skinid="2" description="" distance="100.886"/>
+      <hotspot pan="-0.79" title="CỔNG TRƯỜNG" target="" url="{node13}" id="Point07" tilt="-50.91" skinid="1" description="" distance="63.9686"/>
+      <hotspot pan="-100.23" title="KÍ TÚC XÁ" id="Point09" tilt="-21.53" skinid="1" description="" target="" url=""/>
+      <hotspot pan="-66.09" title="CỔNG KTX" id="Point10" tilt="-28.54" skinid="1" description="" target="" url=""/>
+      <hotspot pan="-114.46" title="Sân Vận Động Thiên Trường" id="Point12" tilt="-8.26" skinid="ht_url" description="" target="_blank" url="https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Thi%C3%AAn_Tr%C6%B0%E1%BB%9Dng"/>
+      <hotspot pan="-45.29" title="Hồ Vị Xuyên TP. Nam Định" id="Point13" tilt="-7.3" skinid="ht_video_youtube" description="" target="" url="Zn9-cZXa5z8"/>
+      <hotspot pan="0.3" title="PHÒNG TRUYỀN THỐNG" id="Point08" tilt="-25.23" skinid="3" description="" target="" url="{node18}"/>
+      <hotspot pan="-344.48" title="DÃY NHÀ D" id="Point02" tilt="-24.97" skinid="1" description="" target="" url=""/>
+      <hotspot pan="-21.54" title="DÃY NHÀ C" id="Point03" tilt="-36.14" skinid="1" description="" target="" url=""/>
+      <hotspot pan="-339.35" title="DÃY NHÀ B" id="Point04" tilt="-36.5" skinid="1" description="" target="" url=""/>
+      <hotspot pan="-31.46" title="DÃY NHÀ E" id="Point06" tilt="-19.31" skinid="1" description="" target="" url=""/>
+    </hotspots>
+    <media>
+      <sound pan="-1.000" startmutedmobile="0" level="1.000" tiltsize="10.000" mode="0" pansize="10.000" ambientlevel="0.000" id="_background" tilt="-1.000" loop="1" field="90.000" nodechangekeep="1">
+        <source mono="0" url="media/nen.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomin="6" blendcolor="0x000000" zoomoutpause="1" zoomfov="40" zoomafteroutfov="40" delay="none" enabled="1" type="mesh" zoomspeed="2" zoomafterinfov="140" blendtime="1.5" zoomout="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="1" invertcontrol="1" speedwheel="1" contextprojections="0" lockedkeyboard="0" contextvr="0" sensitivity="20" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextfullscreen="0" rubberband="0" zoomcentercursor="0" dblclickfullscreen="0" simulatemass="1" hideabout="1">
+      <menulink text="Create by LHP Corp" url="https://lhpcorp.com/"/>
+    </control>
+    <vr toggleskinbutton="1" skinbuttonposition="1" defaulthsscale="100"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" overlap="1" levelingpitch="0" width="2048" levelbiashidpi="1.000" leveltilesize="510">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="69.8415">
+      <start fov="114.85" pan="-90.94" tilt="-90" projection="4"/>
+      <flyin fov="300" pan="0" tilt="-120" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata info="" tags="Tongquan" nodeid="node4" title="GÓC TRÊN" datetime="1/1/1970 12:00 AM" source="" latitude="" heading="69.8415" author="" comment="" customnodeid="" altitude="79.00" copyright="" description="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textcolor="0x000000" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" height="20" border="1" borderradius="1" wordwrap="1" background="1" backgroundalpha="0.784314" width="180" enabled="1" borderalpha="1"/>
+      <polystyle handcursor="1" mode="2" bordercolor="0xffffff" backgroundcolor="0x0000de" backgroundalpha="0.141176" borderalpha="0"/>
+      <hotspot pan="-266.85" title="CỔNG TRƯỜNG" id="Point02" tilt="-57.18" skinid="1" description="" target="" url="{node13}"/>
+      <hotspot pan="-186.09" title="SÂN TRƯỜNG" id="Point01" tilt="-86.36" skinid="1" description="" target="" url="{node6}"/>
+    </hotspots>
+    <media>
+      <sound pan="-1.000" startmutedmobile="0" level="1.000" tiltsize="10.000" mode="0" pansize="10.000" ambientlevel="0.000" id="_background" tilt="-1.000" loop="1" field="90.000" nodechangekeep="1">
+        <source mono="0" url="media/nen.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomin="6" blendcolor="0x000000" zoomoutpause="1" zoomfov="40" zoomafteroutfov="40" delay="none" enabled="1" type="mesh" zoomspeed="2" zoomafterinfov="140" blendtime="1.5" zoomout="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="1" invertcontrol="1" speedwheel="1" contextprojections="0" lockedkeyboard="0" contextvr="0" sensitivity="20" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextfullscreen="0" rubberband="0" zoomcentercursor="0" dblclickfullscreen="0" simulatemass="1" hideabout="1">
+      <menulink text="Create by LHP Corp" url="https://lhpcorp.com/"/>
+    </control>
+    <vr toggleskinbutton="1" skinbuttonposition="1" defaulthsscale="100"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" overlap="1" levelingpitch="0" width="2048" levelbiashidpi="1.000" leveltilesize="510">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-193.847">
+      <start fov="80.41" pan="1.75" tilt="-6.03" projection="4"/>
+      <flyin fov="300" pan="0" tilt="-120" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata info="" tags="KVT" nodeid="node13" title="CỔNG TRƯỜNG" datetime="5/1/2025 4:43 PM" source="" latitude="20.43531125" heading="-193.847" author="" comment="" customnodeid="" altitude="20.00" copyright="" description="" longitude="106.18492745"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textcolor="0x000000" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" height="20" border="1" borderradius="1" wordwrap="1" background="1" backgroundalpha="0.784314" width="180" enabled="1" borderalpha="1"/>
+      <polystyle handcursor="1" mode="2" bordercolor="0xffffff" backgroundcolor="0x0000de" backgroundalpha="0.141176" borderalpha="0"/>
+      <hotspot pan="-2.31" title="SÂN TRƯỜNG" target="" url="{node6}" id="Point01" tilt="-8.68" skinid="1" description="" distance="36.9191"/>
+      <hotspot fov="5.8399999999999999" pan="-179.82" customimage="media/flygif.gif" title="TOÀN CẢNH" customimagewidth="1024" target="" url="{node14}" distance3D="10037.7" id="Point02" tilt="49.13" skinid="1" description="" use3D="1" distance="63.9686" customimageheight="1024"/>
+    </hotspots>
+    <media>
+      <video height="100" hidepinned="0" stretch="1.076" width="100" mode="1" ambientlevel="0.000" id="Element02" roty="17.830" fov="17.630" pan="16.820" rotz="2.600" popoutscaling="100" startmutedmobile="0" level="1.000" tiltsize="10.000" pansize="10.000" rotx="-8.090" clickmode="2" tilt="-14.170" popbackmode="0" loop="1" field="90.000" handcursor="0" nodechangekeep="0">
+        <source url="media/clip Copy 01-1.webm"/>
+      </video>
+      <sound pan="-1.000" startmutedmobile="0" level="1.000" tiltsize="10.000" mode="0" pansize="10.000" ambientlevel="0.000" id="_background" tilt="-1.000" loop="1" field="90.000" nodechangekeep="1">
+        <source mono="0" url="media/nen.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomin="6" blendcolor="0x000000" zoomoutpause="1" zoomfov="40" zoomafteroutfov="40" delay="none" enabled="1" type="mesh" zoomspeed="2" zoomafterinfov="140" blendtime="1.5" zoomout="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="1" invertcontrol="1" speedwheel="1" contextprojections="0" lockedkeyboard="0" contextvr="0" sensitivity="20" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextfullscreen="0" rubberband="0" zoomcentercursor="0" dblclickfullscreen="0" simulatemass="1" hideabout="1">
+      <menulink text="Create by LHP Corp" url="https://lhpcorp.com/"/>
+    </control>
+    <vr toggleskinbutton="1" skinbuttonposition="1" defaulthsscale="100"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" overlap="1" levelingpitch="0" width="2048" levelbiashidpi="1.000" leveltilesize="510">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="76.0999">
+      <start fov="86.03" pan="-96.53" tilt="-37.5" projection="4"/>
+      <flyin fov="300" pan="0" tilt="-120" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata info="" tags="KVT" nodeid="node6" title="SÂN TRƯỜNG" datetime="1/1/1970 12:00 AM" source="" latitude="20.43498557" heading="76.0999" author="" comment="" customnodeid="" altitude="43.00" copyright="" description="" longitude="106.18499637"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textcolor="0x000000" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" height="20" border="1" borderradius="1" wordwrap="1" background="1" backgroundalpha="0.784314" width="180" enabled="1" borderalpha="1"/>
+      <polystyle handcursor="1" mode="2" bordercolor="0xffffff" backgroundcolor="0x0000de" backgroundalpha="0.141176" borderalpha="0"/>
+      <hotspot pan="-5.68" title="DÃY NHÀ A" id="Point05" tilt="-3.58" skinid="1" description="" target="" url=""/>
+      <hotspot pan="-267.51" title="CỔNG TRƯỜNG" target="" url="{node13}" id="Point02" tilt="-32.36" skinid="1" description="" distance="36.9191"/>
+      <hotspot fov="6" pan="-265.48" customimage="media/flygif.gif" title="TOÀN CẢNH" customimagewidth="1024" target="" url="{node14}" distance3D="9769.54" id="Point09" tilt="24.49" skinid="1" description="" use3D="1" distance="100.886" customimageheight="1024"/>
+      <hotspot pan="-5.29" title="PHÒNG TRUYỀN THỐNG" id="Point01" tilt="-17.93" skinid="3" description="" target="" url="{node18}"/>
+      <hotspot pan="-41.87" title="DÃY NHÀ D" id="Point03" tilt="-7.32" skinid="1" description="" target="" url=""/>
+      <hotspot pan="-226.99" title="DÃY NHÀ B" id="Point04" tilt="-8.73" skinid="1" description="" target="" url=""/>
+      <hotspot pan="-304.42" title="DÃY NHÀ C" id="Point06" tilt="-4.92" skinid="1" description="" target="" url=""/>
+      <hotspot pan="-167.55" title="DÃY NHÀ E" id="Point07" tilt="-2.82" skinid="1" description="" target="" url=""/>
+    </hotspots>
+    <media>
+      <sound pan="-1.000" startmutedmobile="0" level="1.000" tiltsize="10.000" mode="0" pansize="10.000" ambientlevel="0.000" id="_background" tilt="-1.000" loop="1" field="90.000" nodechangekeep="1">
+        <source mono="0" url="media/nen.mp3"/>
+      </sound>
+      <lensflare blinding="50.000" pan="-19.840" alpha="80.000" type="1" id="Lensflare01" tilt="16.690" color="0xffffff"/>
+    </media>
+    <transition softedge="0" zoomin="6" blendcolor="0x000000" zoomoutpause="1" zoomfov="40" zoomafteroutfov="40" delay="none" enabled="1" type="mesh" zoomspeed="2" zoomafterinfov="140" blendtime="1.5" zoomout="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="1" invertcontrol="1" speedwheel="1" contextprojections="0" lockedkeyboard="0" contextvr="0" sensitivity="20" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextfullscreen="0" rubberband="0" zoomcentercursor="0" dblclickfullscreen="0" simulatemass="1" hideabout="1">
+      <menulink text="Create by LHP Corp" url="https://lhpcorp.com/"/>
+    </control>
+    <vr toggleskinbutton="1" skinbuttonposition="1" defaulthsscale="100"/>
+  </panorama>
+  <panorama id="node18" hideabout="1">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" height="4000" overlap="1" levelingpitch="0" width="4000" levelbiashidpi="1.000" leveltilesize="510">
+      <level width="4000" predecode="0" height="4000" preload="0"/>
+      <level width="2000" predecode="0" height="2000" preload="0"/>
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="97.8007" pan="-4.92634" tilt="-3.37242" projection="4"/>
+      <flyin fov="300" pan="0" tilt="-120" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata info="" tags="phong" nodeid="node18" title="PHÒNG TRUYỀN THỐNG" datetime="" source="" latitude="" heading="0" author="" comment="" customnodeid="" altitude="-3048.00" copyright="" description="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textcolor="0x000000" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" height="20" border="1" borderradius="1" wordwrap="1" background="1" backgroundalpha="0.784314" width="180" enabled="1" borderalpha="1"/>
+      <polystyle handcursor="1" mode="2" bordercolor="0xffffff" backgroundcolor="0x0000de" backgroundalpha="0.141176" borderalpha="0"/>
+      <hotspot pan="-359.57" title="Trường THPT Chuyên Lê Hồng Phong, Nam Định: 1 thế kỷ trồng người" id="Point02" tilt="1.3" skinid="ht_video_youtube" description="" target="" url="aOqTqbLbTKQ"/>
+      <hotspot pan="-326.45" title="TOÀN CẢNH" id="Point03" tilt="-2.32" skinid="1" description="" target="" url="{node14}"/>
+      <hotspot pan="-32.18" title="SÂN TRƯỜNG" id="Point04" tilt="-3.2" skinid="1" description="" target="" url="{node6}"/>
+      <hotspot pan="-146.3" title="1980 - 1983" id="Point01" tilt="14.54" skinid="4" description="" target="" url="{node1}"/>
+      <hotspot fov="1.8600000000000001" pan="-109.99" customimage="media/LOGO_LHP1.png" title="" customimagewidth="1024" target="" url="images/484839287_957431116586486_3252562441025973342_n.jpg" distance3D="31540.7" id="Point05" tilt="10.71" skinid="ht_image" description="" use3D="1" customimageheight="1024"/>
+      <hotspot pan="-94.7" title="HIỆU TRƯỜNG" id="Point06" tilt="11.15" skinid="5" description="KLSAHFUIWGEFBA" target="" url="images/484839287_957431116586486_3252562441025973342_n.jpg"/>
+    </hotspots>
+    <media>
+      <image fov="12.670" pan="-77.420" rotz="-2.380" height="642" hidepinned="0" popoutscaling="68" stretch="1.291" width="960" rotx="10.800" clickmode="1" id="Element03" tilt="3.520" popbackmode="0" handcursor="0" roty="2.220">
+        <source url="media/485120950_958602239802707_7906646532928164252_n.jpg"/>
+      </image>
+      <video height="100" hidepinned="0" stretch="1.281" width="100" mode="1" ambientlevel="0.000" id="Element02" roty="-23.128" fov="24.437" pan="-24.928" rotz="-2.448" popoutscaling="100" startmutedmobile="0" level="1.000" tiltsize="10.000" pansize="10.000" rotx="-4.206" clickmode="2" tilt="-4.275" popbackmode="0" loop="1" field="90.000" handcursor="0" nodechangekeep="0">
+        <source url="media/Video MC 02.webm"/>
+      </video>
+      <sound pan="-1.000" startmutedmobile="0" level="1.000" tiltsize="10.000" mode="0" pansize="10.000" ambientlevel="0.000" id="_background" tilt="-1.000" loop="1" field="90.000" nodechangekeep="1">
+        <source mono="0" url="media/nen.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomin="6" blendcolor="0x000000" zoomoutpause="1" zoomfov="40" zoomafteroutfov="40" delay="none" enabled="1" type="mesh" zoomspeed="2" zoomafterinfov="140" blendtime="1.5" zoomout="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="1" invertcontrol="1" speedwheel="1" contextprojections="0" lockedkeyboard="0" contextvr="0" sensitivity="20" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextfullscreen="0" rubberband="0" zoomcentercursor="0" dblclickfullscreen="0" simulatemass="1" hideabout="1">
+      <menulink text="Create by LHP Corp" url="https://lhpcorp.com/"/>
+    </control>
+    <vr toggleskinbutton="1" skinbuttonposition="1" defaulthsscale="100"/>
+  </panorama>
+  <panorama id="node1" hideabout="1">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1000" overlap="1" levelingpitch="0" width="1000" levelbiashidpi="1.000" leveltilesize="510">
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="80.69" pan="-8.55" tilt="-0.51" projection="4"/>
+      <flyin fov="300" pan="0" tilt="-120" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata info="" tags="phong" nodeid="node1" title="NIÊN KHOÁ" datetime="" source="" latitude="" heading="0" author="" comment="" customnodeid="" altitude="-3048.00" copyright="" description="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textcolor="0x000000" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" height="20" border="1" borderradius="1" wordwrap="1" background="1" backgroundalpha="0.784314" width="180" enabled="1" borderalpha="1"/>
+      <polystyle handcursor="1" mode="2" bordercolor="0xffffff" backgroundcolor="0x0000de" backgroundalpha="0.141176" borderalpha="0"/>
+      <hotspot pan="-24.14" title="1981 - 1984" id="Point02" tilt="1.86" skinid="4" description="" target="" url="{node16}"/>
+      <hotspot pan="-358.52" title="" id="Point03" tilt="6.42" skinid="hotspot_link_1" description="" target="_blank" url="https://drive.google.com/drive/folders/1DL-vwLs6Pa8JF4h05cvQa5d0pZzQnDxd"/>
+      <hotspot pan="-332.39" title="PHÒNG TRUYỀN THỐNG" id="Point01" tilt="1.04" skinid="3" description="" target="" url="{node18}"/>
+    </hotspots>
+    <media>
+      <video height="2160" hidepinned="0" stretch="1.093" width="1500" mode="1" ambientlevel="0.000" id="Element01" roty="-21.388" fov="18.090" pan="-18.343" rotz="-0.318" popoutscaling="100" startmutedmobile="0" level="1.000" tiltsize="10.000" pansize="10.000" rotx="-2.052" clickmode="2" tilt="-1.405" popbackmode="0" loop="1" field="90.000" handcursor="0" nodechangekeep="0">
+        <source url="media/Video MC 03.webm"/>
+      </video>
+      <sound pan="-1.000" startmutedmobile="0" level="1.000" tiltsize="10.000" mode="0" pansize="10.000" ambientlevel="0.000" id="_background" tilt="-1.000" loop="1" field="90.000" nodechangekeep="1">
+        <source mono="0" url="media/nen.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomin="6" blendcolor="0x000000" zoomoutpause="1" zoomfov="40" zoomafteroutfov="40" delay="none" enabled="1" type="mesh" zoomspeed="2" zoomafterinfov="140" blendtime="1.5" zoomout="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="1" invertcontrol="1" speedwheel="1" contextprojections="0" lockedkeyboard="0" contextvr="0" sensitivity="20" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextfullscreen="0" rubberband="0" zoomcentercursor="0" dblclickfullscreen="0" simulatemass="1" hideabout="1">
+      <menulink text="Create by LHP Corp" url="https://lhpcorp.com/"/>
+    </control>
+    <vr toggleskinbutton="1" skinbuttonposition="1" defaulthsscale="100"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" overlap="1" levelingpitch="0" width="2000" levelbiashidpi="1.000" leveltilesize="510">
+      <level width="2000" predecode="0" height="2000" preload="0"/>
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="300" pan="0" tilt="-120" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata info="" tags="phong" nodeid="node16" title="KHOÁ KẾ TIẾP" datetime="" source="" latitude="" heading="0" author="" comment="" customnodeid="" altitude="-3048.00" copyright="" description="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textcolor="0x000000" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" height="20" border="1" borderradius="1" wordwrap="1" background="1" backgroundalpha="0.784314" width="180" enabled="1" borderalpha="1"/>
+      <polystyle handcursor="1" mode="2" bordercolor="0xffffff" backgroundcolor="0x0000de" backgroundalpha="0.141176" borderalpha="0"/>
+      <hotspot pan="-32.26" title="KHOÁ KẾ TIẾP" id="Point02" tilt="-2.54" skinid="3" description="" target="" url=""/>
+      <hotspot pan="-326.51" title="PHÒNG TRUYỀN THỐNG" id="Point01" tilt="-2.49" skinid="3" description="" target="" url="{node18}"/>
+    </hotspots>
+    <media>
+      <sound pan="-1.000" startmutedmobile="0" level="1.000" tiltsize="10.000" mode="0" pansize="10.000" ambientlevel="0.000" id="_background" tilt="-1.000" loop="1" field="90.000" nodechangekeep="1">
+        <source mono="0" url="media/nen.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomin="6" blendcolor="0x000000" zoomoutpause="1" zoomfov="40" zoomafteroutfov="40" delay="none" enabled="1" type="mesh" zoomspeed="2" zoomafterinfov="140" blendtime="1.5" zoomout="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="1" invertcontrol="1" speedwheel="1" contextprojections="0" lockedkeyboard="0" contextvr="0" sensitivity="20" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextfullscreen="0" rubberband="0" zoomcentercursor="0" dblclickfullscreen="0" simulatemass="1" hideabout="1">
+      <menulink text="Create by LHP Corp" url="https://lhpcorp.com/"/>
+    </control>
+    <vr toggleskinbutton="1" skinbuttonposition="1" defaulthsscale="100"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1000" overlap="1" levelingpitch="0" width="1000" levelbiashidpi="1.000" leveltilesize="510">
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="300" pan="0" tilt="-120" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata info="" tags="ktx|NhaA|nhab|nhac|nhad|nhae" nodeid="node8" title="DEMO" datetime="" source="" latitude="" heading="0" author="" comment="" customnodeid="" altitude="-3048.00" copyright="" description="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textcolor="0x000000" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" height="20" border="1" borderradius="1" wordwrap="1" background="1" backgroundalpha="0.784314" width="180" enabled="1" borderalpha="1"/>
+      <polystyle handcursor="1" mode="2" bordercolor="0xffffff" backgroundcolor="0x0000de" backgroundalpha="0.141176" borderalpha="0"/>
+    </hotspots>
+    <media>
+      <sound pan="-1.000" startmutedmobile="0" level="1.000" tiltsize="10.000" mode="0" pansize="10.000" ambientlevel="0.000" id="_background" tilt="-1.000" loop="1" field="90.000" nodechangekeep="1">
+        <source mono="0" url="media/nen.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomin="6" blendcolor="0x000000" zoomoutpause="1" zoomfov="40" zoomafteroutfov="40" delay="none" enabled="1" type="mesh" zoomspeed="2" zoomafterinfov="140" blendtime="1.5" zoomout="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="1" invertcontrol="1" speedwheel="1" contextprojections="0" lockedkeyboard="0" contextvr="0" sensitivity="20" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextfullscreen="0" rubberband="0" zoomcentercursor="0" dblclickfullscreen="0" simulatemass="1" hideabout="1">
+      <menulink text="Create by LHP Corp" url="https://lhpcorp.com/"/>
+    </control>
+    <vr toggleskinbutton="1" skinbuttonposition="1" defaulthsscale="100"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" comment="" title="Trường LHP" copyright="" description="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map title="" mapprovider="openstreetmap" googlecustomstylecode="" index="0" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" type="web" id="Map01" mapstyle="streets" mapmaxzoom="18"/>
+</tour>
